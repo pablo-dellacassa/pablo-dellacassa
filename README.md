@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pablo nice to meet you! You are the visitor ![Visitor Count](https://profile-counter.glitch.me/pablo-dellacassa/count.svg)
+I'm Pablo nice to meet you! You are the visitor: ![Visitor Count](https://profile-counter.glitch.me/pablo-dellacassa/count.svg)
 
 
 <!--
