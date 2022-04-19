@@ -10,7 +10,7 @@ In this profile you can check a little bit of the personal projects and this is 
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marshall-Bits&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-And github stats:
+And Github stats:
 
 ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-dellacassa&show_icons=true&hide=stars,issues)
 
