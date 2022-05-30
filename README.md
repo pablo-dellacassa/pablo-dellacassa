@@ -2,17 +2,17 @@
 
 I'm Pablo nice to meet you!
 
-[![Github](https://img.shields.io/github/followers/pablo-dellacassa?label=Follow&style=social)](https://github.com/pablo-dellacassa)
+[![Github](https://img.shields.io/github/followers/pablodellacassa?label=Follow&style=social)](https://github.com/pablodellacassa)
 ![](https://visitor-badge.laobi.icu/badge?page_id=pablo-dellacassa.pablo-dellacassa)
 
 
 In this profile you can check a little bit of the personal projects and this is are the main languages used:
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marshall-Bits&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablodellacassa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 And Github stats:
 
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-dellacassa&show_icons=true&hide=stars,issues)
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablodellacassa&show_icons=true&hide=stars,issues)
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/pablo-dellacassa/)
 
