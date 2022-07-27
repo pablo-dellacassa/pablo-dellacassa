@@ -6,7 +6,7 @@ I'm Pablo nice to meet you!
 ![](https://visitor-badge.laobi.icu/badge?page_id=pablo-dellacassa.pablo-dellacassa)
 
 
-In this profile you can check a little bit of the personal projects and this is are the main languages used:
+In this profile you can check a little bit of the personal projects and this are the main languages used:
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablodellacassa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
